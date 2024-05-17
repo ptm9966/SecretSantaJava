@@ -35,7 +35,7 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin updated-->
+		<!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin updated ooo-->
 		<dependency>
 			<groupId>org.jacoco</groupId>
 			<artifactId>jacoco-maven-plugin</artifactId>
